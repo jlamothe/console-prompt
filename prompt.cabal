@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                prompt
-version:             0.0
+version:             0.1
 synopsis:            user prompts
 -- description:         
 homepage:            https://github.com/jlamothe/prompt
