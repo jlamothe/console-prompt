@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                console-prompt
-version:             0.0
+version:             0.1
 synopsis:            console user prompts
 -- description:         
 homepage:            https://github.com/jlamothe/console-prompt
